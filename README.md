@@ -1,4 +1,5 @@
 # Understanding Golang Templates
+A quick project to understand how YAML locale / translation files are interpreted by Go HTML templates.
 
 From the command line:
 ```
