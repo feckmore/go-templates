@@ -1,0 +1,14 @@
+{{ range . }}
+    <h1>{{ .title }}</h1>
+    {{ if .description }}
+        <p>{{ .description }}</p>
+    {{ end }}
+    {{ range .diagnoses }}
+        <h3>{{ .title }}</h3>
+        {{ if .description }}
+            <p>{{ .description }}</p>
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ .invalid }}

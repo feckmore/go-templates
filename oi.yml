@@ -1,0 +1,44 @@
+en: 
+  ankle:
+    title: Ankle
+    description: Ankle description and anotomy goes here...
+    diagnoses:
+      arthritis:
+        title: Arthritis
+        description: Ankle arthritis is narrowing of the ankle joint.
+        link: "arthritis"
+        image: 
+      fractures:
+        title: Fractures
+        description: Ankle fractures can occur...
+  shoulder:
+    title: Shoulder
+    description: Shoulder description and anotomy goes here...
+    diagnoses: 
+      arthritis:
+        title: Arthritis
+        description: Arthritis is inflammation of a joint. In the shoulder, it can occur at the glenohumeral (ball and socket), acromioclavicular (AC), or sternoclavicular joint (SC).
+      fracturs:
+        title: Fractures
+        description: Shoulder fractures can occur...
+de:
+  ankle:
+    title: Knöchel
+    description: Knöchelbeschreibung und Anatomie hier
+    diagnoses:
+      arthritis:
+        title: Arthritis
+        description: Sprunggelenksarthrose verengt das Sprunggelenk.
+      fractures:
+        title: Frakturen
+        description: Knöchelbrüche können auftreten...
+  shoulder:
+    title: Schulter
+    description: Schulterbeschreibung und Anatomie finden Sie hier
+    diagnoses: 
+      arthritis:
+        title: Arthritis
+        description: Arthritis ist eine Entzündung eines Gelenks. In der Schulter kann es am glenohumeralen (Kugel und Pfanne), akromioklavikulären (AC) oder sternoklavikulären Gelenk (SC) auftreten.
+      fracturs:
+        title: Frakturen
+        description: Schulterbrüche können auftreten...
